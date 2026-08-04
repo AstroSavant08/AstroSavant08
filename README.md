@@ -69,7 +69,7 @@ Proyecto de análisis de datos y Machine Learning utilizando:
 ---
 
 ## 📊 Estadísticas
-*(Sección sin imágenes dinámicas para evitar errores de carga. Puedes añadir capturas fijas en tu carpeta `assets/` si quieres mostrar gráficas.)*
+
 
 - **31 contribuciones totales** (Feb 20, 2024 – Presente)  
 - **Racha actual:** 1 día (4 de agosto)  
