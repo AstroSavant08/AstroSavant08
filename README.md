@@ -69,29 +69,16 @@ Proyecto de análisis de datos y Machine Learning utilizando:
 ---
 
 ## 📊 Estadísticas
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AstroSavant08&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AstroSavant08&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+*(Sección sin imágenes dinámicas para evitar errores de carga. Puedes añadir capturas fijas en tu carpeta `assets/` si quieres mostrar gráficas.)*
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AstroSavant08&theme=github-dark-blue&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AstroSavant08&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AstroSavant08&theme=github_dark"/>
-</p>
+- **31 contribuciones totales** (Feb 20, 2024 – Presente)  
+- **Racha actual:** 1 día (4 de agosto)  
+- **Racha más larga:** 5 días (27 feb – 2 mar 2024)  
 
 ---
 
 ## 🐍 Contribuciones
-<p align="center">
-<img src="https://raw.githubusercontent.com/AstroSavant08/AstroSavant08/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</p>
+*(Animación Snake removida para evitar errores. Puedes reemplazarla por una imagen fija si lo deseas.)*
 
 ---
 
